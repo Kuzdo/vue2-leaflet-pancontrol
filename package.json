@@ -1,0 +1,39 @@
+{
+  "name": "vue2-leaflet-pancontrol",
+  "version": "1.0.0",
+  "description": "Leaflet.Pancontrol component for Vue2Leaflet",
+  "main": "LControlPancontrol.vue",
+  "scripts": {
+    "example": "poi --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kuzdo/vue2-leaflet-pancontrol"
+  },
+  "keywords": [
+    "leaflet",
+    "vue2-leaflet",
+    "vue2",
+    "map",
+    "pan",
+    "pancontrol"
+  ],
+  "author": "Przemysław Kużdowicz <przemyslaw@kuzdowicz.pro>",
+  "license": "BSD-2-Clause",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/Kuzdo/vue2-leaflet-pancontrol/issues"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.5.17",
+    "leaflet": "^1.6.0",
+    "poi": "^12.10.2",
+    "reset-css": "^5.0.1",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "dependencies": {
+    "leaflet.pancontrol": "^1.0.0",
+    "vue2-leaflet": "^2.0.0"
+  }
+}
