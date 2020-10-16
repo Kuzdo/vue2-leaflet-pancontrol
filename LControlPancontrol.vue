@@ -2,7 +2,6 @@
 import {OptionsMixin, ControlMixin, propsBinder, optionsMerger } from "vue2-leaflet";
 import LeafletPancontrol from "leaflet.pancontrol";
 import 'leaflet.pancontrol/src/L.Control.Pan.css'
-import 'leaflet.pancontrol/src/L.Control.Pan.ie.css'
 
 export default {
   name: 'LControlPancontrol',
