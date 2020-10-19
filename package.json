@@ -1,6 +1,6 @@
 {
   "name": "vue2-leaflet-pancontrol",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Leaflet.Pancontrol component for Vue2Leaflet",
   "main": "LControlPancontrol.vue",
   "scripts": {
