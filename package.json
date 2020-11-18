@@ -1,6 +1,6 @@
 {
   "name": "vue2-leaflet-pancontrol",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Leaflet.Pancontrol component for Vue2Leaflet",
   "main": "LControlPancontrol.vue",
   "scripts": {
@@ -33,7 +33,7 @@
     "vue-template-compiler": "^2.6.12"
   },
   "dependencies": {
-    "leaflet.pancontrol": "https://github.com/Kuzdo/Leaflet.Pancontrol",
+    "leaflet.pancontrol": "git+https://github.com/Kuzdo/Leaflet.Pancontrol.git",
     "vue2-leaflet": "^2.0.0"
   }
 }
